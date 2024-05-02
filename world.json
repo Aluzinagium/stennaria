@@ -2,6 +2,7 @@
   "title": "Stennaria ICRPG",
   "id": "stennaria-icrpg",
   "system": "icrpgme",
+  "download": "https://github.com/Aluzinagium/stennaria/blob/master/stennaria.zip",
   "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
